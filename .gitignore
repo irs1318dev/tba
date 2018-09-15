@@ -1,3 +1,14 @@
+#### Custom entries, added by Stacy ###
+
+# PYCHARM
+.idea/
+
+# File containing Blue Alliance Authorization key
+# Git will ignore this file regardless of what folder it is in
+**/auth.py
+
+### Default Entries  from Github ###
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,6 +113,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
-# PYCHARM
-.idea/
